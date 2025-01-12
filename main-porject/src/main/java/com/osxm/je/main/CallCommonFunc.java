@@ -1,3 +1,9 @@
+/**
+ * Copyright (C)  Oscar Chen(XM):
+ * 
+ * Date: 2025-01-12
+ * Author: XM
+ */
 package com.osxm.je.main;
 
 import com.osxm.je.lib.CommonFunc;
